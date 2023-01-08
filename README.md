@@ -34,7 +34,7 @@ conda activate crack
 python run.py
 ```
 Default input and output directories:  
-./Data/Inputs; ./Data/Outputs  
+./Data/Inputs   ./Data/Outputs  
   
 To modify input and output directories, add arguments:
 ```
