@@ -32,9 +32,18 @@ Download [model_unet_vgg_16_best.pt](https://drive.google.com/file/d/1wA2eAsyFZA
 ```
 conda activate crack
 python run.py
-```  
-Input and Output will be in default directories  
+```
+Default input and output directories:  
+./Data/Inputs; ./Data/Outputs  
+  
 To modify input and output directories, add arguments:
 ```
 python run.py input_dir output_dir
 ```
+Default model directory and type:
+./Models/model_unet_vgg_16_best.pt  
+vgg16 
+  
+To modify model path and model type:
+```
+python run.py input_dir output_dir model_dir model_type
