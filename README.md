@@ -25,5 +25,6 @@ conda install -c conda-forge opencv
 [Other Versions of Pytorch](https://pytorch.org/get-started/locally/)  
 
 ## Pre-Trained Model
-Use the pre-trained model in order to run the crack detection algorithm without training
+Use the pre-trained model in order to run the crack detection algorithm without training  
 Download [model_unet_vgg_16_best.pt](https://drive.google.com/file/d/1wA2eAsyFZArG3Zc9OaKvnBuxSAPyDl08/view) and put it in ./Models
+
