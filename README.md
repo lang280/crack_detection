@@ -25,5 +25,4 @@ conda install -c conda-forge opencv
 [Other Versions of Pytorch](https://pytorch.org/get-started/locally/)  
 
 ## Pre-Trained Model
-Download [unet_vgg16](https://drive.google.com/file/d/1wA2eAsyFZArG3Zc9OaKvnBuxSAPyDl08/view)  
-Put Model
+Download [model_unet_vgg_16_best.pt](https://drive.google.com/file/d/1wA2eAsyFZArG3Zc9OaKvnBuxSAPyDl08/view) and put it in ./Models
