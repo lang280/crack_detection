@@ -28,3 +28,8 @@ conda install -c conda-forge opencv
 Use the pre-trained model in order to run the crack detection algorithm without training  
 Download [model_unet_vgg_16_best.pt](https://drive.google.com/file/d/1wA2eAsyFZArG3Zc9OaKvnBuxSAPyDl08/view) and put it in ./Models
 
+## Run Crack Detection
+### Enter Conda Environment
+```conda activate crack```
+### Run
+```python run.py```
