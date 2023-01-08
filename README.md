@@ -29,10 +29,10 @@ Use the pre-trained model in order to run the crack detection algorithm without 
 Download [model_unet_vgg_16_best.pt](https://drive.google.com/file/d/1wA2eAsyFZArG3Zc9OaKvnBuxSAPyDl08/view) and put it in ./Models
 
 ## Run Crack Detection
-### Enter Conda Environment
-```conda activate crack```
-### Run
-```python run.py```  
+```
+conda activate crack
+python run.py
+```  
 Input and Output will be in default directories  
 To modify input and output directories, add arguments:  
 ```python run.py input_dir output_dir```
