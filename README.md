@@ -34,5 +34,7 @@ conda activate crack
 python run.py
 ```  
 Input and Output will be in default directories  
-To modify input and output directories, add arguments:  
-```python run.py input_dir output_dir```
+To modify input and output directories, add arguments:
+```
+python run.py input_dir output_dir
+```
