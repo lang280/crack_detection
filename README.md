@@ -22,4 +22,8 @@ conda install matplotlib scipy numpy tqdm pillow
 conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
 conda install -c conda-forge opencv
 ```
-[Other Versions of Pytorch](https://pytorch.org/get-started/locally/)
+[Other Versions of Pytorch](https://pytorch.org/get-started/locally/)  
+
+## Pre-Trained Model
+Download [unet_vgg16](https://drive.google.com/file/d/1wA2eAsyFZArG3Zc9OaKvnBuxSAPyDl08/view)  
+Put Model
